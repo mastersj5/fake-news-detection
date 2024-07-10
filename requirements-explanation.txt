@@ -1,0 +1,7 @@
+pandas: For data manipulation and analysis.
+numpy: For numerical operations and array handling.
+matplotlib & seaborn: For data visualization and plotting.
+tensorflow, tensorflow-hub, tensorflow-datasets: Core libraries for building and training the neural network model.
+scikit-learn: For machine learning algorithms (in your case, for train_test_split).
+spacy: For natural language processing tasks like tokenization, lemmatization, and stop word removal.
+wordcloud: For generating word cloud visualizations.
